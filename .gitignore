@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+#env files
+myenv
 # C extensions
 *.so
 
