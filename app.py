@@ -19,7 +19,7 @@ def init_db():
                 ''')
         conn.commit()
 
-
+#render my html file.
 @app.route('/')
 def home():
     return render_template('index.html')
