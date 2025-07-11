@@ -35,3 +35,4 @@ override.tf.json
 .myenv/
 
 ./structure/var.tf
+.gitub/workflows/docker-deploy.yml
